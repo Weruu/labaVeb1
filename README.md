@@ -49,7 +49,7 @@
 
 На рисунку наведено приклад вигляду головної сторінки сайту:  
 
-![Скріншот виконаної роботи](https://weruu.github.io/labaVeb1/images/screenshot.png)
+![Скріншот виконаної роботи](https://weruu.github.io/labaVeb1/images/photo.jpg)
 
 ---
 
